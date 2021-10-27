@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "msAppsShayTest",
+    "slug": "msAppsShayTest",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "msAppsShayTest"
+}
